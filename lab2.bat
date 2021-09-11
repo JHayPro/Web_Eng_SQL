@@ -1,0 +1,1 @@
+C:\MAMP\bin\mysql\bin\mysqldump.exe -h localhost -u root -p lab2 Users > C:\MAMP\htdocs\lab2.sql
